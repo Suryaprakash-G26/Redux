@@ -20,9 +20,9 @@ The Shopping Cart App is a web application developed In React.js using Reacter D
 
 
 ##Screenshots
-![image](![image](https://github.com/Suryaprakash-G26/Redux/assets/141228691/536b6b59-e849-46b2-a4da-6eb97c7ffca6)
-)
-)
+![image](https://github.com/Suryaprakash-G26/Redux/assets/141228691/536b6b59-e849-46b2-a4da-6eb97c7ffca6)
+
+
 
 
 ##Deployed Link 
